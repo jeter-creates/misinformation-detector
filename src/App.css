@@ -1,0 +1,6 @@
+/* Any custom styles that can't be handled by Tailwind can go here */
+/* This file is kept minimal since we're using Tailwind CSS */
+
+body {
+  background-color: #f5f7fa;
+}
